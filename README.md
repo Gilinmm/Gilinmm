@@ -1,10 +1,10 @@
-meme_dict = {"КРИНЖ": "Что-то очень странное или стыдное",
-            "ЛОЛ": "Что-то очень смешное",
-            "ЖИЗА": "Что-то жизненное"}
-            
-word = input("Введите непонятное слово (большими буквами!): ")            
-            
-if word in meme_dict.keys():
-    print(meme_dict.get(world))
-else:
-    print('ошшибка')
+impot.randomn
+all_ = '
+"+-_=qwertyuioplkjhgfdsazxcvbnm,.QWERTYUIOPLMKNBJVHCGXFZDAS1234567890!@#$%^&*|\/?;:"
+
+password_war = int(input("Какой длины будет пароль"))
+password = "
+for i in range(password_var):
+  r_numl = random.randint(0,71)
+  passvord += r_numl
+print(password)
